@@ -1,6 +1,18 @@
 # Awesome Biohacking
 
-This repository is a awesome collection about Biohacking. 
+This repository is a awesome collection about Biohacking.
+
+
+
+### Ebooks:
+- [Intro to Biohacking (English Edition)]
+(http://www.amazon.com.br/Intro-Biohacking-English-Edition-Meisel-ebook/dp/B00OM11TVM)
+- [Biohacking: Gentechnik aus der Garage (German Edition)] (http://www.amazon.com/Biohacking-Gentechnik-Garage-German-Edition-ebook/dp/B00BF7AFHU)
+
+### Articles:
+- [A Beginner’s Guide to Biohacking.](https://www.bulletproofexec.com/beginners-guide-to-biohacking-101/)
+- [What is Biohacking and what dows it have do with pool?] (http://www.billiardsbiohacker.com/what-is-biohacking-and-what-does-it-have-to-do-with-pool/)
+- [What is Biohacking? 7 0ptions to get started biohacking and get results fast.] (http://www.limitlessmindset.com/mind-power-products/639-what-is-biohacking.html)
 
 ##### Bugs
 
