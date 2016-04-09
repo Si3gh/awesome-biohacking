@@ -18,6 +18,11 @@ This repository is a awesome collection about Biohacking.
 ### Forums:
 - [BioHack.me](http://forum.biohack.me/)
 
+### Projects:
+- [Lodon biohackspace] (https://biohackspace.org/)
+- [Biohack Academy] (https://github.com/biohackacademy)
+- [Biohacking Brasil] (http://www.biohackingbrasil.com.br/)
+
 ##### Bugs
 
 - Report bugs in my email: **hi@heitorgouvea.me**
