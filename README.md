@@ -8,7 +8,7 @@ This repository is a awesome collection about Biohacking.
 
 ##### License
 
-- This work is licensed under [**Artistic License 2.0**](https://github.com/HeitorG/nipe/blob/master/LICENSE.md)
+- This work is licensed under [**Artistic License 2.0**](https://github.com/HeitorG/awesome-biohacking/blob/master/LICENSE.md)
 
 ##### Contribution
 
